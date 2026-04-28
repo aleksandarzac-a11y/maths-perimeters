@@ -37,7 +37,7 @@ Level 1 generates random rectilinear and polygon park tracks with 4-7 outer edge
 
 Level 2 generates curriculum shapes: square, rectangle, triangle, parallelogram, trapezoid, and L-shape. Whole numbers plus simple decimals such as `3.5 m`. Some labels are hidden but inferable from opposite/equal sides.
 
-Level 3 generates IXL-style prompts: missing side from total perimeter, perimeter from labelled diagram, and mixed-number perimeter. Decimals use one decimal place. Mixed numbers use denominators 2, 4, 5, or 10.
+Level 3 generates IXL-style prompts: missing side from total perimeter, perimeter from labelled diagram, and mixed-number perimeter. Shapes may include rectangles, squares, parallelograms, and trapezoids. Decimals use one decimal place. Mixed numbers use denominators 2, 4, 5, or 10.
 
 ## Shared Helpers
 - `sumEdges(edges)` returns perimeter.

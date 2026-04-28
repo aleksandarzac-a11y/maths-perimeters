@@ -1,0 +1,33 @@
+{
+  "id": "maths-perimeters",
+  "name": "Perimeter Explorer",
+  "short_name": "Perimeters",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "landscape",
+  "background_color": "#bbf7d0",
+  "theme_color": "#16a34a",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [],
+  "tags": ["perimeter", "geometry", "measurement", "stage-3"],
+  "subjects": ["maths"],
+  "skills": ["perimeter", "metric measurement", "geometry", "missing side lengths"],
+  "teachesLevels": [
+    {
+      "label": "Calculate and infer perimeters of 2D shapes using metric units",
+      "stageLabel": "Stage 3",
+      "syllabusCode": "MA3-GM-02",
+      "syllabusUrl": "https://curriculum.nsw.edu.au/learning-areas/mathematics/mathematics-k-10-2022/content/stage-3/ma3-gm-02",
+      "syllabusDescription": "Selects and uses the appropriate unit and device to measure lengths and distances including perimeters."
+    }
+  ],
+  "githubUrl": "https://github.com/aleksandarzac-a11y/maths-perimeters",
+  "videoUrl": "",
+  "description": "Build: __BUILD_STAMP__\n\nPerimeter Explorer is a park-track runner game where students trace the outside boundary of a shape, add side lengths into a lap total, and answer perimeter or missing-side questions using metric units."
+}

@@ -31,6 +31,8 @@ Level 2: squares, rectangles, triangles, parallelograms, trapezoids, and simple 
 Level 3: textbook/IXL-style questions. Examples:
 - "A rectangle has a perimeter of 49.6 m and a length of 17.8 m. What is the width?"
 - "A square has a perimeter of 61.2 cm. What is the length of each side?"
+- "A parallelogram has a perimeter of 44.2 cm and a base of 14.6 cm. What is the side length?"
+- "A trapezoid has a perimeter of 38.8 m and three sides shown. What is the missing side?"
 - "Find the perimeter. Write your answer as a mixed number."
 
 ## Feedback
